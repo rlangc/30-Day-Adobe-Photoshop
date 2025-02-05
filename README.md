@@ -74,4 +74,4 @@ By the end of 30 days, you should have a solid understanding of Photoshop’s ba
 <p align="center">
   <a href="https://github.com/rlangc/30-Day-Learning.git"><b>Return to 30 Day Learning Strategy</b></a>
 <p align="center">
-  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
+  <a href="https://github.com/rlangc"><b>Return to Home</b></a>
